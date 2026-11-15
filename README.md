@@ -50,7 +50,7 @@ A lightweight, browserless True Random Number Generator (TRNG) written in Python
 Run the script from your terminal:
 
 ```bash
-python cosmic_rng.py
+python sdr_entropy.py
 ```
 
 Upon launch, an interactive menu will appear:
